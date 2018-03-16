@@ -11,6 +11,7 @@
 - [Direct Connect](https://aws.amazon.com/directconnect/)
 - [Direct Connect Gateways](https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways.html)
 - [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- [Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-introduction-function.html)
 
 #Some Tooling Mentioned
 - [Splunk](https://www.splunk.com/)
