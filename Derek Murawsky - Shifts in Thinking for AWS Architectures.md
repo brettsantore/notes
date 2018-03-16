@@ -16,3 +16,8 @@
 #Some Tooling Mentioned
 - [Splunk](https://www.splunk.com/)
 - [Vault](https://www.vaultproject.io/docs/secrets/ssh/index.html)
+
+#Other Links
+- [AWS: ReInvent](https://reinvent.awsevents.com/)
+- [AWS: Developer Blogs](https://aws.amazon.com/blogs/developer/)
+- [AWS: Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
